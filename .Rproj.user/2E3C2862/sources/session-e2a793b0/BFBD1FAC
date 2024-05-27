@@ -3,7 +3,7 @@
     "path": "~/Desktop/project/example.qmd",
     "project_path": "example.qmd",
     "type": "quarto_markdown",
-    "hash": "0",
+    "hash": "1472300100",
     "contents": "",
     "dirty": false,
     "created": 1716795354093.0,
@@ -15,18 +15,18 @@
         "tempName": "Untitled1",
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "0,0",
+        "cursorPosition": "27,0",
         "scrollLine": "0",
         "docOutlineVisible": "1",
         "rmdVisualCollapsedChunks": "",
-        "rmdVisualModeLocation": "2:0"
+        "rmdVisualModeLocation": "564:243.33334350585938"
     },
     "folds": "",
-    "lastKnownWriteTime": 1716795363,
+    "lastKnownWriteTime": 1716795614,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1716795363343,
+    "last_content_update": 1716795614836,
     "read_only": false,
     "read_only_alternatives": []
 }
